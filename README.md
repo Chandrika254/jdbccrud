@@ -1,1 +1,1 @@
-# jdbccrud
+A Hibernate-based CRUD operation project that demonstrates Create, Read, Update, and Delete functionalities using Java and Hibernate. It interacts with a relational database to manage data efficiently. The project follows besA JDBC-based CRUD operation project that implements Create, Read, Update, and Delete functionalities using Java and MySQL. It establishes a database connection using JDBC for efficient data management. The project follows structured coding practices for seamless database operations.t practices for ORM and database management.
